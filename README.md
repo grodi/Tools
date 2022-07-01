@@ -8,3 +8,8 @@ OpenSource; OS: Win, Lin
 
 ### Google Tableau - Big Data modeling and visualization tool
 Testversion, Abo 70$ person/month
+
+
+### AWStats - Web Analysis Software for log data
+OpenSource
+
