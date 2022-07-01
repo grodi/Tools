@@ -6,5 +6,5 @@ IT Tool Overview
 OpenSource; OS: Win, Lin
 
 
-### Google Tableau - Collects Data from different Sources and buld grafical visulizations
-OpenSource
+### Google Tableau - Big Data modeling and visualization tool
+Testversion, Abo 70$ person/month
