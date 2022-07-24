@@ -29,5 +29,7 @@ https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 OpenSource
 https://www.portfolio-performance.info/
 
-## tricount - Perfect for accounting for group activities such as outings, vacations, meals, or shared apartment expenses!
+## tricount - Perfect for accounting for group activities such as outings, vacations, meals, or shared apartment expenses.
 https://www.tricount.com/
+
+
