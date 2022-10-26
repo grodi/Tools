@@ -23,6 +23,11 @@ https://github.com/netbox-community/netbox
 OpenSource
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
+## IT Automation
+
+### Rundeck - Ansible UI
+https://www.rundeck.com/
+
 ## Finanz Tools
 
 ### Portfolio Performance - Calculates Portfolio Performance
