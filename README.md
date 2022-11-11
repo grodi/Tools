@@ -23,6 +23,15 @@ https://github.com/netbox-community/netbox
 OpenSource
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
+### react - A JavaScript library for building user interfaces 
+https://reactjs.org/
+
+### TypeScript - JavaScript with Syntax for types
+https://www.typescriptlang.org/
+
+### Angular
+https://material.angular.io/
+
 ## IT Automation
 
 ### Rundeck - Ansible UI
