@@ -25,7 +25,8 @@ https://github.com/netbox-community/netbox
 OpenSource
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
-### Flexbox - Part of CSS that provides a easy way to layout icons within a container   
+### Flexbox - Part of CSS that provides a easy way to layout icons within a container
+https://www.w3schools.com/css/css3_flexbox.asp
 
 ### react - A JavaScript library for building user interfaces 
 https://reactjs.org/
