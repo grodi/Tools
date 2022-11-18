@@ -19,7 +19,9 @@ https://awstats.sourceforge.io/
 OpenSource
 https://github.com/netbox-community/netbox
 
-### GisLens - Helps you better understand code. Extension for Visual Studio Code
+## Coding Stuff
+
+### GitLens - Helps you better understand code. Extension for Visual Studio Code
 OpenSource
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
