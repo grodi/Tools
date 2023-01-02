@@ -2,15 +2,15 @@
 ## Uncategorized
 
 
-### sipcalc - Command Line Subnet Calculator
+#### sipcalc - Command Line Subnet Calculator
 OpenSource; OS: Win, Lin
 https://github.com/sii/sipcalc
 
-### Google Tableau - Big Data modeling and visualization tool
+#### Google Tableau - Big Data modeling and visualization tool
 Free Testversion, Abo 70$ person/month
 
 
-### AWStats - Web Analysis Software for log data
+#### AWStats - Web Analysis Software for log data
 OpenSource
 https://awstats.sourceforge.io/
 
@@ -21,20 +21,20 @@ https://github.com/netbox-community/netbox
 
 ## Coding Stuff
 
-### GitLens - Helps you better understand code. Extension for Visual Studio Code
+#### GitLens - Helps you better understand code. Extension for Visual Studio Code
 OpenSource
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
-### Flexbox - Part of CSS that provides a easy way to layout icons within a container
+#### Flexbox - Part of CSS that provides a easy way to layout icons within a container
 https://www.w3schools.com/css/css3_flexbox.asp
 
-### react - A JavaScript library for building user interfaces 
+#### react - A JavaScript library for building user interfaces 
 https://reactjs.org/
 
-### TypeScript - JavaScript with Syntax for types
+#### TypeScript - JavaScript with Syntax for types
 https://www.typescriptlang.org/
 
-### Angular
+#### Angular
 https://material.angular.io/
 
 ## IT Automation
@@ -44,11 +44,11 @@ https://www.rundeck.com/
 
 ## Finanz Tools
 
-### Portfolio Performance - Calculates Portfolio Performance
+#### Portfolio Performance - Calculates Portfolio Performance
 OpenSource
 https://www.portfolio-performance.info/
 
-### tricount - Perfect for accounting for group activities such as outings, vacations, meals, or shared apartment expenses.
+#### tricount - Perfect for accounting for group activities such as outings, vacations, meals, or shared apartment expenses.
 https://www.tricount.com/
 
 
