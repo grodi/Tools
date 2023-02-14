@@ -48,6 +48,10 @@ https://material.angular.io/
 ### Rundeck - Ansible UI
 https://www.rundeck.com/
 
+### ROBOT FrameWork
+Robot Framework is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA)
+https://robotframework.org/
+
 ## Finanz Tools
 
 #### Portfolio Performance - Calculates Portfolio Performance
