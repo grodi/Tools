@@ -43,6 +43,9 @@ https://www.typescriptlang.org/
 #### Angular
 https://material.angular.io/
 
+#### Swagger - Simplify API development with rich support for the OpenAPI Specification, AsyncAPI specification, JSON Schema and more
+https://swagger.io/
+
 ## IT Automation
 
 ### Rundeck - Ansible UI
