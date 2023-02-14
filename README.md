@@ -12,7 +12,7 @@ Free Testversion, Abo 70$ person/month
 
 
 #### AWStats - Web Analysis Software for log data
-OpenSource
+- OpenSource
 https://awstats.sourceforge.io/
 
 
