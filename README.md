@@ -2,9 +2,8 @@
 ## Uncategorized
 
 
-### sipcalc ### - bla bla
->Command Line Subnet Calculator  
-OpenSource; OS: Win, Lin  
+### sipcalc - Command Line Subnet Calculator
+>OpenSource; OS: Win, Lin  
 https://github.com/sii/sipcalc
 
 #### Google Tableau - Big Data modeling and visualization tool
