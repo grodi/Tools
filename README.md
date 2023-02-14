@@ -4,12 +4,11 @@
 
 ### sipcalc
 >Command Line Subnet Calculator<br>
-OpenSource; OS: Win, Lin
-
+OpenSource; OS: Win, Lin<br>
 https://github.com/sii/sipcalc
 
 #### Google Tableau - Big Data modeling and visualization tool
----Free Testversion, Abo 70$ person/month
+Free Testversion, Abo 70$ person/month
 
 
 #### AWStats - Web Analysis Software for log data
