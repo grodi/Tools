@@ -21,6 +21,9 @@ OpenSource
 https://github.com/netbox-community/netbox
 
 ## Security
+#### wazuh - Wazuh is used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
+OpenSource
+https://github.com/wazuh/wazuh
 
 #### XCA - X - Certificate and Key management
 OpenSource
