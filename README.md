@@ -52,6 +52,9 @@ https://swagger.io/
 
 ## IT Automation
 
+### Ansible-Semaphore - Web UI
+https://www.ansible-semaphore.com/
+
 ### Rundeck - Ansible UI
 https://www.rundeck.com/
 
