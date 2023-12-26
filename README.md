@@ -41,8 +41,8 @@ https://mailcow.email/
 #### Paperless - Document Management
 https://docs.paperless-ngx.com/
 
-#### ![image](https://github.com/grodi/Tools/assets/47941943/4509e89e-f24d-4c13-ad7b-504c581e18b7)   CheckMK - IT Monitoring
-
+#### CheckMK - IT Monitoring
+![image](https://github.com/grodi/Tools/assets/47941943/4509e89e-f24d-4c13-ad7b-504c581e18b7)
 https://checkmk.com/
 
 ## Security
