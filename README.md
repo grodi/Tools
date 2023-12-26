@@ -22,6 +22,28 @@ https://awstats.sourceforge.io/
 OpenSource
 https://github.com/netbox-community/netbox
 
+## Backend
+### OPNSense
+https://opnsense.org/
+
+### Bitwarden - Password Security
+https://bitwarden.com/
+
+### Rustdesk - RemoteControl OpenSource Alterdnative for TeamViewer
+https://rustdesk.com/
+
+### 3cx - 10 Users free Phone System, VIdeo COnferencing
+https://www.3cx.com/
+
+### Mailcow - Groupware
+https://mailcow.email/
+
+### Paperless - Document Management
+https://docs.paperless-ngx.com/
+
+### CheckMK - IT Monitoring
+https://checkmk.com/
+
 ## Security
 #### wazuh - Wazuh is used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
 OpenSource
