@@ -41,9 +41,9 @@ https://mailcow.email/
 #### Paperless - Document Management
 https://docs.paperless-ngx.com/
 
-#### CheckMK - IT Monitoring
+####![image](https://github.com/grodi/Tools/assets/47941943/4509e89e-f24d-4c13-ad7b-504c581e18b7)
+ CheckMK - IT Monitoring
 https://checkmk.com/
-![image](https://github.com/grodi/Tools/assets/47941943/6f3d3804-b586-4bb8-995f-9027932cc1fd)
 
 ## Security
 #### wazuh - Wazuh is used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
