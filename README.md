@@ -44,8 +44,8 @@ https://docs.paperless-ngx.com/
 #### CheckMK - IT Monitoring
 https://checkmk.com/
 
-#### homer - Dashboard
-<img src="https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png" width="20" height="20">
+#### homer <img src="https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png" width="20" height="20">
+Dashboard
 https://github.com/bastienwirtz/homer
 
 #### homarr - Dashboard
