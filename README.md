@@ -47,7 +47,7 @@ https://checkmk.com/
 
 #### homer - Dashboard
 https://github.com/bastienwirtz/homer
-![image](https://raw.githubusercontent.com/bastienwirtz/homer/main/public/logo.png)
+![image](https://raw.githubusercontent.com/bastienwirtz/homer/main/public/logo.png =50x50)
 
 
 ## Security
