@@ -45,9 +45,8 @@ https://docs.paperless-ngx.com/
 https://checkmk.com/
 
 #### homer - Dashboard
+<img src="https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png" width="20" height="20">
 https://github.com/bastienwirtz/homer
-
-<img src="https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png" width="10" height="10">
 
 ## Security
 #### wazuh - Wazuh is used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
