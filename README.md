@@ -23,7 +23,7 @@ OpenSource
 https://github.com/netbox-community/netbox
 
 ## Backend
-#### OPNSense
+#### OPNSense  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Opnsense-logo.svg" width="60" height="12"> -
 https://opnsense.org/
 
 #### Bitwarden - Password Security
