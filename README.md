@@ -42,14 +42,12 @@ https://mailcow.email/
 https://docs.paperless-ngx.com/
 
 #### CheckMK - IT Monitoring
-![image](https://github.com/grodi/Tools/assets/47941943/4509e89e-f24d-4c13-ad7b-504c581e18b7)
 https://checkmk.com/
 
 #### homer - Dashboard
 https://github.com/bastienwirtz/homer
-![image](https://raw.githubusercontent.com/bastienwirtz/homer/main/public/logo.png =50x50)
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 ## Security
 #### wazuh - Wazuh is used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
