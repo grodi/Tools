@@ -49,6 +49,7 @@ https://checkmk.com/
 https://github.com/bastienwirtz/homer
 ![image](https://raw.githubusercontent.com/bastienwirtz/homer/main/public/logo.png =50x50)
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 
 ## Security
 #### wazuh - Wazuh is used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
