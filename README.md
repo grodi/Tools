@@ -32,7 +32,7 @@ https://github.com/netbox-community/netbox
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bitwarden_logo.svg/1200px-Bitwarden_logo.svg.png" width="20"/>&nbsp;&nbsp;&nbsp;[bitwarden](https://bitwarden.com) | Password Security | donno |
 | <img src="https://homarr.dev/img/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[homarr](https://github.com/ajnart/homarr) | Dashboard | donno |
 | <img src="https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[homer](https://github.com/bastienwirtz/homer)| Dashboard | donno |
-| <img src="https://docs.paperless-ngx.com/assets/logo_full_black.svg#only-light" width="20"/>&nbsp;&nbsp;&nbsp;[Paperless](https://docs.paperless-ngx.com) | Document Management | donno |
+| <img src="https://docs.paperless-ngx.com/assets/logo_full_black.svg#only-light" width="60"/>&nbsp;&nbsp;&nbsp;[Paperless](https://docs.paperless-ngx.com) | Document Management | donno |
 | <img src="https://checkmk.com/application/files/cache/thumbnails/67fc39c599afdf20557d538416e3efd3.png" width="20"/>&nbsp;&nbsp;&nbsp;[CheckMK](https://checkmk.com)| IT Monitoring | donno |
 
 
