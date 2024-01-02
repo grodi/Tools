@@ -26,13 +26,13 @@ https://github.com/netbox-community/netbox
 | Application  | Description | License Model |
 | --- | --- | --- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Opnsense-logo.svg" width="90" height="18"/>&nbsp;&nbsp;&nbsp;[Open Sense](https://opnsense.org) | VPN, IPS, Firewall | donno |
-| <img src="https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png" width="20" height="20"/>&nbsp;&nbsp;&nbsp;[homer](https://github.com/bastienwirtz/homer)| Dashboard| donno|
+| <img src="https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png" width="20" height="20"/>&nbsp;&nbsp;&nbsp;[homer](https://github.com/bastienwirtz/homer)| Dashboard| donno |
+| <img src="https://logo.png" width="20" height="20"/>&nbsp;&nbsp;&nbsp;[homer](https://bitwarden.com/)| Password Security | donno |
+| <img src="https://logo.png" width="20" height="20"/>&nbsp;&nbsp;&nbsp;[Rustdesk](https://rustdesk.com/)| RemoteControl OpenSource Alterdnative for TeamViewer| donno |
+| <img src="https://logo.png" width="20" height="20"/>&nbsp;&nbsp;&nbsp;[3cx](https://github.com/bastienwirtz/homer)|Phone System, VIdeo Conferencing | 10 Users free |
+| <img src="https://logo.png" width="20" height="20"/>&nbsp;&nbsp;&nbsp;[Mailcow](https://github.com/bastienwirtz/homer)| Groupware| donno |
+| <img src="https://logo.png" width="20" height="20"/>&nbsp;&nbsp;&nbsp;[homer](https://github.com/bastienwirtz/homer)| Dashboard| donn o|
 
-#### Bitwarden - Password Security
-https://bitwarden.com/
-
-#### Rustdesk - RemoteControl OpenSource Alterdnative for TeamViewer
-https://rustdesk.com/
 
 #### 3cx - 10 Users free Phone System, VIdeo COnferencing
 https://www.3cx.com/
