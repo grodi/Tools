@@ -23,6 +23,11 @@ OpenSource
 https://github.com/netbox-community/netbox
 
 ## Backend
+| Application  | Description | License Model |
+| --- | --- | --- |
+| <img src="https://airvideo.app/images/icon.png" width="15"/>&nbsp;&nbsp;&nbsp;[Air Video HD](https://github.com/WisdomSky/CasaOS-Coolstore/tree/main/Apps/airvideohd) | latest | Watch videos streamed instantly from your computer on your iPhone, iPad, iPod touch or Apple TV. |
+
+
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Opnsense-logo.svg" width="90" height="18"> OPNSense - VPN, IPS, Firewall
 https://opnsense.org/
 
