@@ -50,7 +50,7 @@ https://hohnstaedt.de/xca/
 
 | Application  | Description | License Model |
 | --- | --- | --- |
-| <img src="https://homarr.dev/img/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | Helps you better understand code. Extension for Visual Studio Code | donno |
+| <img src="https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2023.12.2104/1703149661337/Microsoft.VisualStudio.Services.Icons.Default" width="20"/>&nbsp;&nbsp;&nbsp;[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | Helps you better understand code. Extension for Visual Studio Code | donno |
 | <img src="https://homarr.dev/img/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) | Part of CSS that provides a easy way to layout icons within a container | donno |
 | <img src="https://homarr.dev/img/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[react](https://reactjs.org/) | A JavaScript library for building user interfaces  | donno |
 | <img src="https://homarr.dev/img/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[TypeScript](https://www.typescriptlang.org) | JavaScript with Syntax for types  | donno |
