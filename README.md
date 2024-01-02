@@ -49,12 +49,12 @@ https://hohnstaedt.de/xca/
 ## Coding Stuff
 
 | Application  | Description | License Model |
-| ------ | --- | --- |
+| --- | --- | --- |
 | <img src="https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2023.12.2104/1703149661337/Microsoft.VisualStudio.Services.Icons.Default" width="20"/>&nbsp;&nbsp;&nbsp;[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | Helps you better understand code. Extension for Visual Studio Code | donno |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" width="20"/>&nbsp;&nbsp;&nbsp;[Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) | Part of CSS that provides a easy way to layout icons within a container | donno |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="20"/>&nbsp;&nbsp;&nbsp;[react](https://reactjs.org) | A JavaScript library for building user interfaces  | donno |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="20"/>&nbsp;&nbsp;&nbsp;[TypeScript](https://www.typescriptlang.org) | JavaScript with Syntax for types  | donno |
-| <img src="https://play-lh.googleusercontent.com/chjR4I5l3IvecljLsVUh0Agz7HetYQiZYZD8KDMXoYm-kZDI-pKvg4qEzzt9596aOOs=w240-h480-rw" width="20"/>&nbsp;&nbsp;&nbsp;[Angular](https://material.angular.io) | xxx  | donno |
+| <img src="https://play-lh.googleusercontent.com/chjR4I5l3IvecljLsVUh0Agz7HetYQiZYZD8KDMXoYm-kZDI-pKvg4qEzzt9596aOOs=w240-h480-rw" width="20"/>&nbsp;&nbsp;&nbsp;&nbsp;[Angular](https://material.angular.io) | xxx  | donno |
 | <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="60"/>&nbsp;&nbsp;&nbsp;[Swagger](https://swagger.io) | Simplify API development with rich support for the OpenAPI Specification, AsyncAPI specification, JSON Schema and more  | donno |
 
 
