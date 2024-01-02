@@ -25,7 +25,7 @@ https://github.com/netbox-community/netbox
 ## Backend
 | Application  | Description | License Model |
 | --- | --- | --- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Opnsense-logo.svg" width="15"/>&nbsp;&nbsp;&nbsp;[Open Sense](https://opnsense.org) | VPN, IPS, Firewall | donno |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Opnsense-logo.svg" width="30"/>&nbsp;&nbsp;&nbsp;[Open Sense](https://opnsense.org) | VPN, IPS, Firewall | donno |
 | <img src="https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png" width="20" height="20"/>&nbsp;&nbsp;&nbsp;[homer](https://github.com/bastienwirtz/homer)| Dashboard| donno |
 | <img src="https://rustdesk.com/images/rustdesk-banner.svg" width="20" height="20"/>&nbsp;&nbsp;&nbsp;[Rustdesk](https://rustdesk.com) | RemoteControl OpenSource Alterdnative for TeamViewer| donno |
 | <img src="https://www.3cx.com/wp-content/uploads/2018/08/logo-3.png" width="20" height="20"/>&nbsp;&nbsp;&nbsp;[3cx](https://www.3cx.com)|Phone System, VIdeo Conferencing | 10 Users free |
