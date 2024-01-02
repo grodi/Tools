@@ -51,15 +51,10 @@ https://hohnstaedt.de/xca/
 | Application  | Description | License Model |
 | --- | --- | --- |
 | <img src="https://homarr.dev/img/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | Helps you better understand code. Extension for Visual Studio Code | donno |
-
 | <img src="https://homarr.dev/img/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) | Part of CSS that provides a easy way to layout icons within a container | donno |
-
 | <img src="https://homarr.dev/img/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[react](https://reactjs.org/) | A JavaScript library for building user interfaces  | donno |
-
 | <img src="https://homarr.dev/img/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[TypeScript](https://www.typescriptlang.org) | JavaScript with Syntax for types  | donno |
-
 | <img src="https://homarr.dev/img/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[Angular](https://material.angular.io) | xxx  | donno |
-
 | <img src="https://homarr.dev/img/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[Swagger](https://swagger.io/) | Simplify API development with rich support for the OpenAPI Specification, AsyncAPI specification, JSON Schema and more  | donno |
 
 
