@@ -61,8 +61,8 @@ https://hohnstaedt.de/xca/
 ## IT Automation
 | Application  | Description | License Model |
 | --- | --- | --- |
-|Ansible|
-| <img src="https://avatars.githubusercontent.com/u/98574287?s=48&v=4" width="60"/>; [SemaphoreUI](https://semaphoreui.com/)|Powerful API for Ansible  | donno |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/256px-Ansible_logo.svg.png" width="20"/>&nbsp;&nbsp;[Ansible](https://www.redhat.com/en/ansible-collaborative)|Ansible is an open source IT automation engine that automates provisioning, configuration management, application deployment, orchestration, and many other IT processes.| donno |
+| <img src="https://avatars.githubusercontent.com/u/98574287?s=48&v=4" width="20"/>&nbsp;&nbsp;[SemaphoreUI](https://semaphoreui.com/)|Powerful API for Ansible| donno |
 
 ### Ansible-Semaphore - Web UI
 https://www.ansible-semaphore.com/
