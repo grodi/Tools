@@ -42,9 +42,9 @@ https://github.com/netbox-community/netbox
 | <img src="https://checkmk.com/application/files/cache/thumbnails/67fc39c599afdf20557d538416e3efd3.png" width="20"/>&nbsp;&nbsp;&nbsp;[CheckMK](https://checkmk.com)| IT Monitoring | donno |
 | <img src="https://uptimekuma.org/wp-content/uploads/2025/01/Uptime-Kuma-Logo.png" width="40"/>&nbsp; [Uptimekuma](https://uptimekuma.org/)| | free |
 [Smokeping](https://oss.oetiker.ch/smokeping/)
-| Prometheus| | donno |
-| Loki| | donno |
-| Grafana| | donno |
+| [Prometheus](https://prometheus.io/) | | donno |
+| [Loki](https://grafana.com/products/cloud/logs/) | | donno |
+| [Grafana](https://grafana.com/) | | donno |
 
 ## Security and Identity
 | Application  | Description | License Model |
