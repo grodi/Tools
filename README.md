@@ -45,7 +45,7 @@ Smokeping
 | <img src="https://avatars.githubusercontent.com/u/82976448?s=48&v=4" width="20"/>&nbsp;[Authentik](https://goauthentik.io/)|Take control of your identity needs with a secure, flexible solution.| donno | 
 | <img src="https://play-lh.googleusercontent.com/GBhNhKgjfy6i6Ucc0hyB-79WmcV7LvKSfGSy8iStFdZSaLioKQp5rPWjqsh2YFRRZsE1=w240-h480-rw" width="20"/>&nbsp; [Twingate](https://www.twingate.com/)| VPN Replacement| payplan |
 |KeePassXC|| donno |
-| <img src="https://www.passbolt.com/images/credits/brandguidelines/secondary.svg [passbolt](https://www.passbolt.com/)" width="20"/>&nbsp;|Passbolt is an open source credential platform for modern teams.| donno |
+| <img src="https://www.passbolt.com/images/credits/brandguidelines/secondary.svg" width="20"/>&nbsp; [passbolt](https://www.passbolt.com/)" width="20"/>&nbsp;|Passbolt is an open source credential platform for modern teams.| donno |
 
 #### XCA - X - Certificate and Key management
 OpenSource
