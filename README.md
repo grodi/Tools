@@ -33,9 +33,16 @@ https://github.com/netbox-community/netbox
 | <img src="https://homarr.dev/img/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[homarr](https://github.com/ajnart/homarr) | Dashboard | donno |
 | <img src="https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[homer](https://github.com/bastienwirtz/homer)| Dashboard | donno |
 | <img src="https://docs.paperless-ngx.com/assets/logo_full_black.svg#only-light" width="60"/>&nbsp;&nbsp;&nbsp;[Paperless](https://docs.paperless-ngx.com) | Document Management | donno |
-| <img src="https://checkmk.com/application/files/cache/thumbnails/67fc39c599afdf20557d538416e3efd3.png" width="20"/>&nbsp;&nbsp;&nbsp;[CheckMK](https://checkmk.com)| IT Monitoring | donno |
 
-Smokeping
+## Monitoring and Reporting
+| Application  | Description | License Model |
+| --- | --- | --- |
+| <img src="https://checkmk.com/application/files/cache/thumbnails/67fc39c599afdf20557d538416e3efd3.png" width="20"/>&nbsp;&nbsp;&nbsp;[CheckMK](https://checkmk.com)| IT Monitoring | donno |
+| <img src="https://uptimekuma.org/wp-content/uploads/2025/01/Uptime-Kuma-Logo.png" width="60"/>&nbsp; [Uptimekuma](https://uptimekuma.org/)| | free |
+[Smokeping](https://oss.oetiker.ch/smokeping/)
+Prometheus
+Loki
+Grafana
 
 ## Security and Identity
 | Application  | Description | License Model |
@@ -60,6 +67,8 @@ Smokeping
 | <img src="https://play-lh.googleusercontent.com/chjR4I5l3IvecljLsVUh0Agz7HetYQiZYZD8KDMXoYm-kZDI-pKvg4qEzzt9596aOOs=w240-h480-rw" width="20"/>&nbsp;&nbsp;&nbsp;[Angular](https://material.angular.io) | xxx  | donno |
 | <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="60"/>&nbsp;&nbsp;&nbsp;[Swagger](https://swagger.io) | Simplify API development with rich support for the OpenAPI Specification, AsyncAPI specification, JSON Schema and more  | donno |
 
+[Renovate](https://github.com/renovatebot/renovate)
+[Gitea](https://about.gitea.com/)
 
 ## IT Automation
 | Application  | Description | License Model |
