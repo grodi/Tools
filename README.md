@@ -46,7 +46,7 @@ Smokeping
 | <img src="https://play-lh.googleusercontent.com/GBhNhKgjfy6i6Ucc0hyB-79WmcV7LvKSfGSy8iStFdZSaLioKQp5rPWjqsh2YFRRZsE1=w240-h480-rw" width="20"/>&nbsp; [Twingate](https://www.twingate.com/)| VPN Replacement| payplan |
 |KeePassXC|| donno |
 | <img src="https://www.passbolt.com/images/credits/brandguidelines/secondary.svg" width="20"/>&nbsp; [passbolt](https://www.passbolt.com/)| Passbolt is an open source credential platform for modern teams.| donno |
-| <img src="https://hohnstaedt.de/xca/templates/g5_hydrogen/custom/images/bigcert.png" width="20"/>&nbsp; [XCA](https://hohnstaedt.de/xca/)|This application is intended for creating and managing X.509 certificates, certificate requests, RSA, DSA and EC private keys, Smartcards and CRLs.| free |
+| <img src="https://hohnstaedt.de/xca/templates/g5_hydrogen/custom/images/bigcert.png" width="60"/>&nbsp; [XCA](https://hohnstaedt.de/xca/)|This application is intended for creating and managing X.509 certificates, certificate requests, RSA, DSA and EC private keys, Smartcards and CRLs.| free |
 
 
 ## Coding Stuff
