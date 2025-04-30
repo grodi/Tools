@@ -28,7 +28,6 @@ https://github.com/netbox-community/netbox
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rustdesk.svg/48px-Rustdesk.svg.png" width="20"/>&nbsp;&nbsp;&nbsp;[Rustdesk](https://rustdesk.com) | RemoteControl OpenSource Alterdnative for TeamViewer | donno |
 | <img src="https://www.3cx.com/wp-content/uploads/2018/08/logo-3.png" width="40"/>&nbsp;&nbsp;&nbsp;[3cx](https://www.3cx.com)| Phone System, VIdeo Conferencing | 10 Users free |
 | <img src="https://mailcow.email/images/cow_mailcow.svg" width="20"/>&nbsp;&nbsp;&nbsp;[Mailcow](https://mailcow.email) | Groupware | donno |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bitwarden_logo.svg/1200px-Bitwarden_logo.svg.png" width="20"/>&nbsp;&nbsp;&nbsp;[bitwarden](https://bitwarden.com) | Password Security | donno |
 | <img src="https://docs.paperless-ngx.com/assets/logo_full_black.svg#only-light" width="60"/>&nbsp;&nbsp;&nbsp;[Paperless](https://docs.paperless-ngx.com) | Document Management | donno |
 
 ## Dashboards
@@ -58,7 +57,7 @@ https://github.com/netbox-community/netbox
 | <img src="https://keepassxc.org/assets/img/keepassxc.svg" width="20"/>&nbsp;[KeePassXC](https://keepassxc.org/)|Cross-platform Password Manager| donno |
 | <img src="https://www.passbolt.com/images/credits/brandguidelines/secondary.svg" width="20"/>&nbsp; [passbolt](https://www.passbolt.com/)| Passbolt is an open source credential platform for modern teams.| donno |
 | <img src="https://hohnstaedt.de/xca/templates/g5_hydrogen/custom/images/bigcert.png" width="40"/>&nbsp; [XCA](https://hohnstaedt.de/xca/)|This application is intended for creating and managing X.509 certificates, certificate requests, RSA, DSA and EC private keys, Smartcards and CRLs.| free |
-
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bitwarden_logo.svg/1200px-Bitwarden_logo.svg.png" width="20"/>&nbsp;&nbsp;&nbsp;[bitwarden](https://bitwarden.com) | Password Security | donno |
 
 ## Coding Stuff
 
