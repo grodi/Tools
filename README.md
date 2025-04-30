@@ -64,8 +64,7 @@ https://hohnstaedt.de/xca/
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/256px-Ansible_logo.svg.png" width="20"/>&nbsp;&nbsp;[Ansible](https://www.redhat.com/en/ansible-collaborative)|Ansible is an open source IT automation engine that automates provisioning, configuration management, application deployment, orchestration, and many other IT processes.| donno |
 | <img src="https://avatars.githubusercontent.com/u/98574287?s=48&v=4" width="20"/>&nbsp;[SemaphoreUI](https://semaphoreui.com/)|Powerful API for Ansible| donno |
 | <img src="https://avatars.githubusercontent.com/u/142061836?s=48&v=4" width="20"/>&nbsp;[Opentofu](https://opentofu.org/)|The open source infrastructure as code tool. Alternative to Terraform| donno |
-| <img src="https://avatars.githubusercontent.com/u/59033362?s=200&v=4" width="20"/>&nbsp;[Kestra](https://kestra.io/)|Unify orchestration for all engineers. Build and govern
-all your workflows — Everything-as-Code, and from the UI.| donno |
+| <img src="https://avatars.githubusercontent.com/u/59033362?s=200&v=4" width="20"/>&nbsp;[Kestra](https://kestra.io/)| Unify orchestration for all engineers. Build and govern all your workflows — Everything-as-Code, and from the UI.| donno |
 
 
 ### Rundeck - Ansible UI
