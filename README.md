@@ -38,7 +38,11 @@ https://github.com/netbox-community/netbox
 Smokeping
 
 ## Security
-#### wazuh - Wazuh is used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
+| Application  | Description | License Model |
+| --- | --- | --- |
+| <img src="https://wazuh.com/uploads/2022/05/WAZUH.png" width="20"/>&nbsp;[wazuh](https://wazuh.com/)|Wazuh is used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.| donno |
+
+#### wazuh - 
 OpenSource
 https://github.com/wazuh/wazuh
 
