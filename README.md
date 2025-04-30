@@ -66,9 +66,8 @@ https://github.com/netbox-community/netbox
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="20"/>&nbsp;&nbsp;&nbsp;[TypeScript](https://www.typescriptlang.org) | JavaScript with Syntax for types  | donno |
 | <img src="https://play-lh.googleusercontent.com/chjR4I5l3IvecljLsVUh0Agz7HetYQiZYZD8KDMXoYm-kZDI-pKvg4qEzzt9596aOOs=w240-h480-rw" width="20"/>&nbsp;&nbsp;&nbsp;[Angular](https://material.angular.io) | xxx  | donno |
 | <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="60"/>&nbsp;&nbsp;&nbsp;[Swagger](https://swagger.io) | Simplify API development with rich support for the OpenAPI Specification, AsyncAPI specification, JSON Schema and more  | donno |
-
-[Renovate](https://github.com/renovatebot/renovate)
-[Gitea](https://about.gitea.com/)
+|[Renovate](https://github.com/renovatebot/renovate)| | donno |
+|[Gitea](https://about.gitea.com/)| | donno |
 
 ## IT Automation
 | Application  | Description | License Model |
