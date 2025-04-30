@@ -25,7 +25,6 @@ https://github.com/netbox-community/netbox
 ## Backend
 | Application  | Description | License Model |
 | --- | --- | --- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Opnsense-logo.svg" width="80"/>&nbsp;&nbsp;&nbsp;[Open Sense](https://opnsense.org) | VPN, IPS, Firewall | donno |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rustdesk.svg/48px-Rustdesk.svg.png" width="20"/>&nbsp;&nbsp;&nbsp;[Rustdesk](https://rustdesk.com) | RemoteControl OpenSource Alterdnative for TeamViewer | donno |
 | <img src="https://www.3cx.com/wp-content/uploads/2018/08/logo-3.png" width="40"/>&nbsp;&nbsp;&nbsp;[3cx](https://www.3cx.com)| Phone System, VIdeo Conferencing | 10 Users free |
 | <img src="https://mailcow.email/images/cow_mailcow.svg" width="20"/>&nbsp;&nbsp;&nbsp;[Mailcow](https://mailcow.email) | Groupware | donno |
@@ -51,6 +50,7 @@ https://github.com/netbox-community/netbox
 ## Security and Identity
 | Application  | Description | License Model |
 | --- | --- | --- |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Opnsense-logo.svg" width="80"/>&nbsp;&nbsp;&nbsp;[Open Sense](https://opnsense.org) | VPN, IPS, Firewall | donno |
 | <img src="https://wazuh.com/uploads/2022/05/WAZUH.png" width="40"/>&nbsp;[wazuh](https://wazuh.com/)|Wazuh is used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.| donno |
 | <img src="https://www.clamav.net/assets/clamav-brand-97d5f8373e4ee2db7b7955e3a94fb6ea802fede9165df3740cb9bdab770b7920.png" width="20"/>&nbsp;[ClamAV](https://www.clamav.net/) |ClamAV® is an open-source antivirus engine for detecting trojans, viruses, malware & other malicious threats.| donno |
 | <img src="https://avatars.githubusercontent.com/u/82976448?s=48&v=4" width="20"/>&nbsp;[Authentik](https://goauthentik.io/)|Take control of your identity needs with a secure, flexible solution.| donno | 
