@@ -40,7 +40,7 @@ https://github.com/netbox-community/netbox
 | Application  | Description | License Model |
 | --- | --- | --- |
 | <img src="https://checkmk.com/application/files/cache/thumbnails/67fc39c599afdf20557d538416e3efd3.png" width="20"/>&nbsp;&nbsp;&nbsp;[CheckMK](https://checkmk.com)| IT Monitoring | donno |
-| <img src="https://uptimekuma.org/wp-content/uploads/2025/01/Uptime-Kuma-Logo.png" width="20"/>&nbsp; [Uptime Kuma](https://uptimekuma.org/)|Uptime Kuma is an open-source, free and easy-to-use self-hosted monitoring tool| free |
+| <img src="https://uptimekuma.org/wp-content/uploads/2025/01/Uptime-Kuma-Logo.png" width="25"/>&nbsp; [Uptime Kuma](https://uptimekuma.org/)|Uptime Kuma is an open-source, free and easy-to-use self-hosted monitoring tool| free |
 | [Smokeping](https://oss.oetiker.ch/smokeping/) |Smokeping can measure, store and display latency, latency distribution and packet loss| free |
 | [Prometheus](https://prometheus.io/) | | donno |
 | [Loki](https://grafana.com/products/cloud/logs/) | | donno |
@@ -50,7 +50,7 @@ https://github.com/netbox-community/netbox
 | Application  | Description | License Model |
 | --- | --- | --- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Opnsense-logo.svg" width="80"/>&nbsp;&nbsp;&nbsp;[Open Sense](https://opnsense.org) | VPN, IPS, Firewall | donno |
-| <img src="https://wazuh.com/uploads/2022/05/WAZUH.png" width="40"/>&nbsp;[wazuh](https://wazuh.com/)|Wazuh is used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.| donno |
+| <img src="https://wazuh.com/uploads/2022/05/WAZUH.png" width="30"/>&nbsp;[wazuh](https://wazuh.com/)|Wazuh is a SIEM-Tool used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.| Open Source |
 | <img src="https://www.clamav.net/assets/clamav-brand-97d5f8373e4ee2db7b7955e3a94fb6ea802fede9165df3740cb9bdab770b7920.png" width="20"/>&nbsp;[ClamAV](https://www.clamav.net/) |ClamAV® is an open-source antivirus engine for detecting trojans, viruses, malware & other malicious threats.| donno |
 | <img src="https://avatars.githubusercontent.com/u/82976448?s=48&v=4" width="20"/>&nbsp;[Authentik](https://goauthentik.io/)|Take control of your identity needs with a secure, flexible solution.| donno | 
 | <img src="https://play-lh.googleusercontent.com/GBhNhKgjfy6i6Ucc0hyB-79WmcV7LvKSfGSy8iStFdZSaLioKQp5rPWjqsh2YFRRZsE1=w240-h480-rw" width="20"/>&nbsp; [Twingate](https://www.twingate.com/)| VPN Replacement| Payplan |
