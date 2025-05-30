@@ -89,7 +89,7 @@ https://github.com/netbox-community/netbox
 | <img src="https://avatars.githubusercontent.com/u/142061836?s=48&v=4" width="20"/>&nbsp;[Opentofu](https://opentofu.org/)|The open source infrastructure as code tool. Alternative to Terraform| donno |
 | <img src="https://avatars.githubusercontent.com/u/59033362?s=200&v=4" width="20"/>&nbsp;[Kestra](https://kestra.io/)| Unify orchestration for all engineers. Build and govern all your workflows — Everything-as-Code, and from the UI.| donno |
 |[Rundeck](https://www.rundeck.com/)| Ansible UI ||
-| <img src="https://podman.io/logos/optimized/podman-3-logo-95w-90h.webp" width="20"/>&nbsp;[podmann](https://podman.io/)|
+| <img src="https://podman.io/logos/optimized/podman-3-logo-95w-90h.webp" width="20"/>&nbsp;[podmann](https://podman.io/)|Manage containers, pods, and images with Podman. Seamlessly work with containers and Kubernetes from your local environment|OpenSource|
 
 
 ### ROBOT FrameWork
