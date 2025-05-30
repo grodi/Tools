@@ -47,6 +47,8 @@ https://github.com/netbox-community/netbox
 | [Prometheus](https://prometheus.io/) | | donno |
 | [Loki](https://grafana.com/products/cloud/logs/) | | donno |
 | [Grafana](https://grafana.com/) | | donno |
+| <img src="<https://beszel.dev/>" width="20"/>&nbsp;[Beszel](https://beszel.dev/) |Beszel is a lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions| donno |
+
 
 ## Security and Identity
 | Application  | Description | License Model |
