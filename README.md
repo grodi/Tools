@@ -66,7 +66,7 @@ https://github.com/netbox-community/netbox
 | Application  | Description | License Model |
 | --- | --- | --- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Opnsense-logo.svg" width="80"/>&nbsp;&nbsp;&nbsp;[Open Sense](https://opnsense.org) | VPN, IPS, Firewall | donno |
-| <img src="https://avatars.githubusercontent.com/u/100464677?s=48&v=4" width="80"/>&nbsp;[Netbird](https://netbird.io/)"|NetBird combines a configuration-free peer-to-peer private network and a centralized access control system in a single platform, making it easy to create secure private networks for your organization or home| donno |
+| <img src="https://avatars.githubusercontent.com/u/100464677?s=48&v=4" width="20"/>&nbsp;[Netbird](https://netbird.io/)|NetBird combines a configuration-free peer-to-peer private network and a centralized access control system in a single platform, making it easy to create secure private networks for your organization or home| donno |
 
 ## Coding Stuff
 
