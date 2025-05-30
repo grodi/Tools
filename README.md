@@ -46,7 +46,7 @@ https://github.com/netbox-community/netbox
 | [Smokeping](https://oss.oetiker.ch/smokeping/) |Smokeping can measure, store and display latency, latency distribution and packet loss| free |
 | [Prometheus](https://prometheus.io/) | | donno |
 | [Loki](https://grafana.com/products/cloud/logs/) | | donno |
-| <img src="https://grafana.com/static/img/about/grafana_logo_swirl_fullcolor.jpg" width="25"/>&nbsp;[Grafana](https://grafana.com/) | | Free for personal use |
+| <img src="https://grafana.com/static/img/about/grafana_logo_swirl_fullcolor.jpg" width="20"/>&nbsp;[Grafana](https://grafana.com/) |With Grafana you can create, explore, and share all of your data through beautiful, flexible dashboards| Free for personal use. PayPlan|
 | [Beszel](https://beszel.dev/) |Beszel is a lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions| free |
 
 
