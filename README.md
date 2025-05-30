@@ -42,12 +42,12 @@ https://github.com/netbox-community/netbox
 | Application  | Description | License Model |
 | --- | --- | --- |
 | <img src="https://checkmk.com/application/files/cache/thumbnails/67fc39c599afdf20557d538416e3efd3.png" width="20"/>&nbsp;&nbsp;&nbsp;[CheckMK](https://checkmk.com)| IT Monitoring | donno |
-| <img src="https://uptimekuma.org/wp-content/uploads/2025/01/Uptime-Kuma-Logo.png" width="25"/>&nbsp; [Uptime Kuma](https://uptimekuma.org/)|Uptime Kuma is an open-source, free and easy-to-use self-hosted monitoring tool| free |
+| <img src="https://uptimekuma.org/wp-content/uploads/2025/01/Uptime-Kuma-Logo.png" width="25"/>&nbsp;[Uptime Kuma](https://uptimekuma.org/)|Uptime Kuma is an open-source, free and easy-to-use self-hosted monitoring tool| free |
 | [Smokeping](https://oss.oetiker.ch/smokeping/) |Smokeping can measure, store and display latency, latency distribution and packet loss| free |
 | [Prometheus](https://prometheus.io/) | | donno |
 | [Loki](https://grafana.com/products/cloud/logs/) | | donno |
-| [Grafana](https://grafana.com/) | | donno |
-| <img src="<https://beszel.dev/>" width="20"/>&nbsp;[Beszel](https://beszel.dev/) |Beszel is a lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions| free |
+| <img src="https://grafana.com/static/img/about/grafana_logo_swirl_fullcolor.jpg" width="25"/>&nbsp;[Grafana](https://grafana.com/) | | Free for personal use |
+| [Beszel](https://beszel.dev/) |Beszel is a lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions| free |
 
 
 ## Security and Identity
