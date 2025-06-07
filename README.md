@@ -2,7 +2,7 @@
 ## Uncategorized
 
 https://www.auvik.com/
-https://gluware.com/
+
 
 ### sipcalc
 Command Line Subnet Calculator  
@@ -22,6 +22,11 @@ https://awstats.sourceforge.io/
 | --- | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/44905828?s=200&v=4" width="20"/>&nbsp;&nbsp; [netbox](https://github.com/netbox-community/netbox)|The world's platform for network and infrastructure management.|Open Source|
 | <img src="https://www.proxmox.com/favicon.svg" width="20"/>&nbsp;&nbsp; [Proxmox](https://www.proxmox.com/en/)|A virtualization platform designed for the provisioning of hyper-converged infrastructure.|Open Source / Subscription|
+
+## Network Automation
+| Application  | Description | License Model |
+| --- | --- | --- |
+| <img src="https://gluware.com/wp-content/uploads/2015/06/favicon-196x196.png[Gluware](https://gluware.com/)| The most powerful and intelligent network automation is at your fingertips.| Payplan |
 
 ## Backend
 | Application  | Description | License Model |
