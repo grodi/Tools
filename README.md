@@ -81,8 +81,8 @@ https://awstats.sourceforge.io/
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="20"/>&nbsp;&nbsp;&nbsp;[TypeScript](https://www.typescriptlang.org) | JavaScript with Syntax for types  | donno |
 | <img src="https://play-lh.googleusercontent.com/chjR4I5l3IvecljLsVUh0Agz7HetYQiZYZD8KDMXoYm-kZDI-pKvg4qEzzt9596aOOs=w240-h480-rw" width="20"/>&nbsp;&nbsp;&nbsp;[Angular](https://material.angular.io) | xxx  | donno |
 | <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="60"/>&nbsp;&nbsp;&nbsp;[Swagger](https://swagger.io) | Simplify API development with rich support for the OpenAPI Specification, AsyncAPI specification, JSON Schema and more  | donno |
-|[Renovate](https://github.com/renovatebot/renovate)| | donno |
-|<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg" width="15"/>&nbsp;[Gitea](https://about.gitea.com/)| | Open Source / Enterprise |
+| <img src="https://avatars.githubusercontent.com/u/38656520?s=48&v=4" width="15"/>&nbsp;&nbsp; [Renovate](https://github.com/renovatebot/renovate)| Renovate is an automated dependency update tool. It helps to update dependencies in your code without needing to do it manually. | Open Source |
+|<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg" width="15"/>&nbsp;&nbsp;[Gitea](https://about.gitea.com/)| Gitea enables the creation and management of repositories based on Git. It also makes code review incredibly easy and convenient, enhancing code quality for users and businesses. | Open Source / Enterprise |
 
 ## IT Automation
 | Application  | Description | License Model |
