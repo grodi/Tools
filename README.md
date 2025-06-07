@@ -31,6 +31,7 @@ https://github.com/netbox-community/netbox
 | <img src="https://www.3cx.com/wp-content/uploads/2018/08/logo-3.png" width="40"/>&nbsp;&nbsp;&nbsp;[3cx](https://www.3cx.com)| Phone System, VIdeo Conferencing | 10 Users free |
 | <img src="https://mailcow.email/images/cow_mailcow.svg" width="20"/>&nbsp;&nbsp;&nbsp;[Mailcow](https://mailcow.email) | Groupware | donno |
 | <img src="https://docs.paperless-ngx.com/assets/logo_full_black.svg#only-light" width="60"/>&nbsp;&nbsp;&nbsp;[Paperless](https://docs.paperless-ngx.com) | Document Management | donno |
+| <img src="https://avatars.githubusercontent.com/u/150462874?s=48&v=4" width="60"/>&nbsp;[Docmost](https://github.com/docmost/docmost)| Open-source collaborative wiki and documentation software. | Open Source / Enterprise Edition |
 
 ## Dashboards
 | Application  | Description | License Model |
@@ -44,7 +45,7 @@ https://github.com/netbox-community/netbox
 | <img src="https://checkmk.com/application/files/cache/thumbnails/67fc39c599afdf20557d538416e3efd3.png" width="20"/>&nbsp;&nbsp;&nbsp;[CheckMK](https://checkmk.com)| IT Monitoring | donno |
 | <img src="https://uptimekuma.org/wp-content/uploads/2025/01/Uptime-Kuma-Logo.png" width="25"/>&nbsp;[Uptime Kuma](https://uptimekuma.org/)|Uptime Kuma is an open-source, free and easy-to-use self-hosted monitoring tool| free |
 | [Smokeping](https://oss.oetiker.ch/smokeping/) |Smokeping can measure, store and display latency, latency distribution and packet loss| free |
-| [Prometheus](https://prometheus.io/) | | donno |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="20"/>&nbsp;[Prometheus](https://prometheus.io/) | Monitor your applications, systems, and services with the leading open source monitoring solution. | Open Source |
 | [Loki](https://grafana.com/products/cloud/logs/) | | donno |
 | <img src="https://grafana.com/static/img/about/grafana_logo_swirl_fullcolor.jpg" width="20"/>&nbsp;[Grafana](https://grafana.com/) |With Grafana you can create, explore, and share all of your data through beautiful, flexible dashboards| Free for personal use. In addition a PayPlan|
 | [Beszel](https://beszel.dev/) |Beszel is a lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions| free |
@@ -79,7 +80,7 @@ https://github.com/netbox-community/netbox
 | <img src="https://play-lh.googleusercontent.com/chjR4I5l3IvecljLsVUh0Agz7HetYQiZYZD8KDMXoYm-kZDI-pKvg4qEzzt9596aOOs=w240-h480-rw" width="20"/>&nbsp;&nbsp;&nbsp;[Angular](https://material.angular.io) | xxx  | donno |
 | <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="60"/>&nbsp;&nbsp;&nbsp;[Swagger](https://swagger.io) | Simplify API development with rich support for the OpenAPI Specification, AsyncAPI specification, JSON Schema and more  | donno |
 |[Renovate](https://github.com/renovatebot/renovate)| | donno |
-|<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg" width="60"/>&nbsp;[Gitea](https://about.gitea.com/)| | Open Source / Enterprise |
+|<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg" width="20"/>&nbsp;[Gitea](https://about.gitea.com/)| | Open Source / Enterprise |
 
 ## IT Automation
 | Application  | Description | License Model |
