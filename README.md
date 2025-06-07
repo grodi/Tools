@@ -44,7 +44,7 @@ https://github.com/netbox-community/netbox
 | --- | --- | --- |
 | <img src="https://checkmk.com/application/files/cache/thumbnails/67fc39c599afdf20557d538416e3efd3.png" width="20"/>&nbsp;&nbsp;&nbsp;[CheckMK](https://checkmk.com)| IT Monitoring | donno |
 | <img src="https://uptimekuma.org/wp-content/uploads/2025/01/Uptime-Kuma-Logo.png" width="25"/>&nbsp;&nbsp;[Uptime Kuma](https://uptimekuma.org/)|Uptime Kuma is an open-source, free and easy-to-use self-hosted monitoring tool| free |
-| <img src="https://oss.oetiker.ch/smokeping/inc/smokeping-logo.png" width="40"/>&nbsp;&nbsp;[Smokeping](https://oss.oetiker.ch/smokeping/) |Smokeping can measure, store and display latency, latency distribution and packet loss| free |
+| <img src="https://oss.oetiker.ch/smokeping/inc/smokeping-logo.png" width="30"/>&nbsp;&nbsp;[Smokeping](https://oss.oetiker.ch/smokeping/) |Smokeping can measure, store and display latency, latency distribution and packet loss| free |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="20"/>&nbsp;&nbsp;[Prometheus](https://prometheus.io/) | Monitor your applications, systems, and services with the leading open source monitoring solution. | Open Source |
 | <img src="https://github.com/grafana/loki/blob/main/docs/sources/logo_and_name.png" width="40"/>&nbsp;&nbsp; [Loki](https://grafana.com/products/cloud/logs/) | | donno |
 | <img src="https://grafana.com/static/img/about/grafana_logo_swirl_fullcolor.jpg" width="20"/>&nbsp;&nbsp;[Grafana](https://grafana.com/) |With Grafana you can create, explore, and share all of your data through beautiful, flexible dashboards| Free for personal use. In addition a PayPlan|
@@ -61,7 +61,7 @@ https://github.com/netbox-community/netbox
 | <img src="https://keepassxc.org/assets/img/keepassxc.svg" width="20"/>&nbsp;[KeePassXC](https://keepassxc.org/)|Cross-platform Password Manager| donno |
 | <img src="https://www.passbolt.com/images/credits/brandguidelines/secondary.svg" width="20"/>&nbsp; [passbolt](https://www.passbolt.com/)| Passbolt is an open source credential platform for modern teams.| donno |
 | <img src="https://hohnstaedt.de/xca/templates/g5_hydrogen/custom/images/bigcert.png" width="40"/>&nbsp; [XCA](https://hohnstaedt.de/xca/)|This application is intended for creating and managing X.509 certificates, certificate requests, RSA, DSA and EC private keys, Smartcards and CRLs.| free |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bitwarden_logo.svg/1200px-Bitwarden_logo.svg.png" width="20"/>&nbsp;&nbsp;&nbsp;[bitwarden](https://bitwarden.com) | Password Security | donno |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bitwarden_logo.svg/1200px-Bitwarden_logo.svg.png" width="30"/>&nbsp;&nbsp;[bitwarden](https://bitwarden.com) | Password Security | donno |
 
 ## VPN - Remote Access
 | Application  | Description | License Model |
