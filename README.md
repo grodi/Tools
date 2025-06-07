@@ -48,7 +48,7 @@ https://github.com/netbox-community/netbox
 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="20"/>&nbsp;&nbsp;[Prometheus](https://prometheus.io/) | Monitor your applications, systems, and services with the leading open source monitoring solution. | Open Source |
 | <img src="https://github.com/grafana/loki/blob/main/docs/sources/logo_and_name.png" width="40"/>&nbsp;&nbsp; [Loki](https://grafana.com/products/cloud/logs/) | | donno |
 | <img src="https://grafana.com/static/img/about/grafana_logo_swirl_fullcolor.jpg" width="20"/>&nbsp;[Grafana](https://grafana.com/) |With Grafana you can create, explore, and share all of your data through beautiful, flexible dashboards| Free for personal use. In addition a PayPlan|
-| <img src="https://beszel.dev/icon.svg" width="20"/>&nbsp;&nbsp; |[Beszel](https://beszel.dev/) Beszel is a lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions| Open Source |
+| <img src="https://beszel.dev/icon.svg" width="20"/>&nbsp;&nbsp; [Beszel](https://beszel.dev/) | Beszel is a lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions| Open Source |
 
  https://oss.oetiker.ch/smokeping/favicon.png 
 ## Security and Identity
@@ -91,11 +91,9 @@ https://github.com/netbox-community/netbox
 | <img src="https://avatars.githubusercontent.com/u/59033362?s=200&v=4" width="20"/>&nbsp;[Kestra](https://kestra.io/)| Unify orchestration for all engineers. Build and govern all your workflows — Everything-as-Code, and from the UI.| donno |
 |[Rundeck](https://www.rundeck.com/)| Ansible UI ||
 | <img src="https://podman.io/logos/optimized/podman-3-logo-95w-90h.webp" width="20"/>&nbsp;[podmann](https://podman.io/)|Manage containers, pods, and images with Podman. Seamlessly work with containers and Kubernetes from your local environment|OpenSource|
+| <img src="https://robotframework.org/img/icons/favicon-32x32.png" width="20"/>&nbsp; [ROBOT FRAMEWORK](https://robotframework.org/)| Robot Framework is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA)| Open Source|
 
 
-### ROBOT FrameWork
-Robot Framework is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA)
-https://robotframework.org/
 
 ## Finanz Tools
 
