@@ -80,7 +80,7 @@ https://github.com/netbox-community/netbox
 | <img src="https://play-lh.googleusercontent.com/chjR4I5l3IvecljLsVUh0Agz7HetYQiZYZD8KDMXoYm-kZDI-pKvg4qEzzt9596aOOs=w240-h480-rw" width="20"/>&nbsp;&nbsp;&nbsp;[Angular](https://material.angular.io) | xxx  | donno |
 | <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="60"/>&nbsp;&nbsp;&nbsp;[Swagger](https://swagger.io) | Simplify API development with rich support for the OpenAPI Specification, AsyncAPI specification, JSON Schema and more  | donno |
 |[Renovate](https://github.com/renovatebot/renovate)| | donno |
-|<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg" width="20"/>&nbsp;[Gitea](https://about.gitea.com/)| | Open Source / Enterprise |
+|<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg" width="15"/>&nbsp;[Gitea](https://about.gitea.com/)| | Open Source / Enterprise |
 
 ## IT Automation
 | Application  | Description | License Model |
@@ -90,7 +90,7 @@ https://github.com/netbox-community/netbox
 | <img src="https://avatars.githubusercontent.com/u/142061836?s=48&v=4" width="20"/>&nbsp;[Opentofu](https://opentofu.org/)|The open source infrastructure as code tool. Alternative to Terraform| donno |
 | <img src="https://avatars.githubusercontent.com/u/59033362?s=200&v=4" width="20"/>&nbsp;[Kestra](https://kestra.io/)| Unify orchestration for all engineers. Build and govern all your workflows — Everything-as-Code, and from the UI.| donno |
 |[Rundeck](https://www.rundeck.com/)| Ansible UI ||
-| <img src="https://podman.io/logos/optimized/podman-3-logo-95w-90h.webp" width="20"/>&nbsp;[podmann](https://podman.io/)|Manage containers, pods, and images with Podman. Seamlessly work with containers and Kubernetes from your local environment|OpenSource|
+| <img src="https://podman.io/favicon.ico" width="20"/>&nbsp;&nbsp; [podmann](https://podman.io/)|Manage containers, pods, and images with Podman. Seamlessly work with containers and Kubernetes from your local environment|OpenSource|
 | <img src="https://robotframework.org/img/icons/favicon-32x32.png" width="20"/>&nbsp; [ROBOT FRAMEWORK](https://robotframework.org/)| Robot Framework is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA)| Open Source|
 
 
