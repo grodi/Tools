@@ -17,10 +17,11 @@ Free Testversion, Abo 70$ person/month
 OpenSource
 https://awstats.sourceforge.io/
 
-## Infrastructure Management
+## Infrastructure
 | Application  | Description | License Model |
 | --- | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/44905828?s=200&v=4" width="20"/>&nbsp;&nbsp; [netbox](https://github.com/netbox-community/netbox)|The world's platform for network and infrastructure management.|Open Source|
+| <img src="https://www.proxmox.com/favicon.svg" width="20"/>&nbsp;&nbsp; [Proxmox](https://www.proxmox.com/en/)|A virtualization platform designed for the provisioning of hyper-converged infrastructure.|Open Source / Subscription|
 
 ## Backend
 | Application  | Description | License Model |
@@ -37,8 +38,8 @@ https://awstats.sourceforge.io/
 ## Dashboards
 | Application  | Description | License Model |
 | --- | --- | --- |
-| <img src="https://homarr.dev/img/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[homarr](https://github.com/ajnart/homarr) | Dashboard | donno |
-| <img src="https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[homer](https://github.com/bastienwirtz/homer)| Dashboard | donno |
+| <img src="https://homarr.dev/img/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[homarr](https://github.com/ajnart/homarr) | A sleek, modern dashboard that puts all of your apps and services at your fingertips. | Open Source |
+| <img src="https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[homer](https://github.com/bastienwirtz/homer)| Homer is a dead simple static HOMepage for your server to keep your services and favorite links on hand, based on a simple yaml configuration file. | Open Source |
 
 ## Monitoring and Reporting
 | Application  | Description | License Model |
