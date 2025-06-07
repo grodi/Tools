@@ -67,6 +67,8 @@ https://awstats.sourceforge.io/
 | <img src="https://hohnstaedt.de/xca/templates/g5_hydrogen/custom/images/bigcert.png" width="40"/>&nbsp; [XCA](https://hohnstaedt.de/xca/)|This application is intended for creating and managing X.509 certificates, certificate requests, RSA, DSA and EC private keys, Smartcards and CRLs.| free |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bitwarden_logo.svg/1200px-Bitwarden_logo.svg.png" width="30"/>&nbsp;&nbsp;[bitwarden](https://bitwarden.com) | Password Security | donno |
 
+https://apps.kde.org/kleopatra/
+
 ## VPN - Remote Access
 | Application  | Description | License Model |
 | --- | --- | --- |
