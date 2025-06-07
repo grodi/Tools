@@ -26,7 +26,7 @@ https://awstats.sourceforge.io/
 ## Network Automation
 | Application  | Description | License Model |
 | --- | --- | --- |
-| <img src="https://gluware.com/wp-content/uploads/2015/06/favicon-196x196.png[Gluware](https://gluware.com/)| The most powerful and intelligent network automation is at your fingertips.| Payplan |
+| <img src="https://gluware.com/wp-content/uploads/2015/06/favicon-196x196.png" width="20"/>&nbsp;&nbsp;[Gluware](https://gluware.com/)| The most powerful and intelligent network automation is at your fingertips.| Payplan |
 
 ## Backend
 | Application  | Description | License Model |
