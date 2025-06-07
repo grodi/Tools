@@ -17,8 +17,8 @@ Free Testversion, Abo 70$ person/month
 OpenSource
 https://awstats.sourceforge.io/
 
-#### Guacamole
-Remote Desktop Client
+
+[Guacamole](https://guacamole.apache.org/) Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.| Open Source|
 
 #### NetBox - Infrastructure resource modeling (IRM) tool
 OpenSource
