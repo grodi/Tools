@@ -31,7 +31,7 @@ https://awstats.sourceforge.io/
 | <img src="https://mailcow.email/images/cow_mailcow.svg" width="20"/>&nbsp;&nbsp;[Mailcow](https://mailcow.email) | Groupware | donno |
 | <img src="https://docs.paperless-ngx.com/assets/logo_full_black.svg#only-light" width="60"/>&nbsp;&nbsp;[Paperless](https://docs.paperless-ngx.com) | Document Management | donno |
 | <img src="https://avatars.githubusercontent.com/u/150462874?s=48&v=4" width="20"/>&nbsp;&nbsp;[Docmost](https://github.com/docmost/docmost)| Open-source collaborative wiki and documentation software. | Open Source / Enterprise Edition |
-| <img src="https://guacamole.apache.org/images/logos/guac-classic-logo-64.png" width="20"/>&nbsp;&nbsp;[Guacamole](https://guacamole.apache.org/) Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.| Open Source|
+| <img src="https://guacamole.apache.org/images/logos/guac-classic-logo-64.png" width="20"/>&nbsp;&nbsp;[Guacamole](https://guacamole.apache.org/)| Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.| Open Source|
 
 
 
