@@ -17,12 +17,10 @@ Free Testversion, Abo 70$ person/month
 OpenSource
 https://awstats.sourceforge.io/
 
-
-[Guacamole](https://guacamole.apache.org/) Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.| Open Source|
-
-#### NetBox - Infrastructure resource modeling (IRM) tool
-OpenSource
-https://github.com/netbox-community/netbox
+## Infrastructure Management
+| Application  | Description | License Model |
+| --- | --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/44905828?s=200&v=4" width="20"/>&nbsp;&nbsp; [netbox](https://github.com/netbox-community/netbox)|The world's platform for network and infrastructure management.|Open Source|
 
 ## Backend
 | Application  | Description | License Model |
@@ -32,6 +30,9 @@ https://github.com/netbox-community/netbox
 | <img src="https://mailcow.email/images/cow_mailcow.svg" width="20"/>&nbsp;&nbsp;[Mailcow](https://mailcow.email) | Groupware | donno |
 | <img src="https://docs.paperless-ngx.com/assets/logo_full_black.svg#only-light" width="60"/>&nbsp;&nbsp;[Paperless](https://docs.paperless-ngx.com) | Document Management | donno |
 | <img src="https://avatars.githubusercontent.com/u/150462874?s=48&v=4" width="20"/>&nbsp;&nbsp;[Docmost](https://github.com/docmost/docmost)| Open-source collaborative wiki and documentation software. | Open Source / Enterprise Edition |
+| <img src="https://guacamole.apache.org/images/logos/guac-classic-logo-64.png" width="20"/>&nbsp;&nbsp;[Guacamole](https://guacamole.apache.org/) Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.| Open Source|
+
+
 
 ## Dashboards
 | Application  | Description | License Model |
