@@ -1,8 +1,4 @@
 # IT Tools
-## Uncategorized
-
-https://www.auvik.com/
-
 
 ### sipcalc
 Command Line Subnet Calculator  
@@ -23,10 +19,11 @@ https://awstats.sourceforge.io/
 | <img src="https://avatars.githubusercontent.com/u/44905828?s=200&v=4" width="20"/>&nbsp;&nbsp; [netbox](https://github.com/netbox-community/netbox)|The world's platform for network and infrastructure management.|Open Source|
 | <img src="https://www.proxmox.com/favicon.svg" width="20"/>&nbsp;&nbsp; [Proxmox](https://www.proxmox.com/en/)|A virtualization platform designed for the provisioning of hyper-converged infrastructure.|Open Source / Subscription|
 
-## Network Automation
+## Network Automation and Monitoring
 | Application  | Description | License Model |
 | --- | --- | --- |
 | <img src="https://gluware.com/wp-content/uploads/2015/06/favicon-196x196.png" width="20"/>&nbsp;&nbsp;[Gluware](https://gluware.com/)| The most powerful and intelligent network automation is at your fingertips.| Payplan |
+| <img src="https://cdn-fainj.nitrocdn.com/HMhNvtGdkXCThiYKondeUNdKlFRQtHkp/assets/images/optimized/rev-3413d1d/www.auvik.com/e9c81047136d2efac2e18595eddf5b64.apple-touch-icon.png" width="20"/>&nbsp;&nbsp; [Auvik](https://www.auvik.com/)|See exactly what’s happening on your networks. So you can fix issues faster and keep things running smoothly — without the time-sucking guesswork that comes with poor visibility.|Payplan|
 
 ## Backend
 | Application  | Description | License Model |
