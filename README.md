@@ -73,7 +73,9 @@ https://apps.kde.org/kleopatra/
 | Application  | Description | License Model |
 | --- | --- | --- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Opnsense-logo.svg" width="80"/>&nbsp;&nbsp;&nbsp;[Open Sense](https://opnsense.org) | VPN, IPS, Firewall | donno |
-| <img src="https://avatars.githubusercontent.com/u/100464677?s=48&v=4" width="20"/>&nbsp;[Netbird](https://netbird.io/)|NetBird combines a configuration-free peer-to-peer private network and a centralized access control system in a single platform, making it easy to create secure private networks for your organization or home| donno |
+| <img src="https://avatars.githubusercontent.com/u/100464677?s=48&v=4" width="20"/>&nbsp;[Netbird](https://netbird.io/)|NetBird combines a configuration-free peer-to-peer private network and a centralized access control system in a single platform, making it easy to create secure private networks for your organization or home| 5 users free |
+| <img src="https://tailscale.com/favicon.png" width="20"/>&nbsp; [tailscale](https://tailscale.com/)| VPN | 3 users free |
+| <img src="https://framerusercontent.com/images/e76KKdP64F9YgzYu302f5fcNbcw.png" width="20"/>&nbsp;  [Twingate](https://www.twingate.com/)| VPN | 5 users  free|
 
 ## IT Automation
 | Application  | Description | License Model |
@@ -91,7 +93,7 @@ https://apps.kde.org/kleopatra/
 | Application  | Description | License Model |
 | --- | --- | --- |
 |<img src="https://gohugo.io/favicon-16x16.png" width="20"/>&nbsp;&nbsp; [HUGO](https://gohugo.io/)|Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.|Open Source|
-| <img src="https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2023.12.2104/1703149661337/Microsoft.VisualStudio.Services.Icons.Default" width="20"/>&nbsp;&nbsp;&nbsp;[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | Helps you better understand code. Extension for Visual Studio Code | donno |
+| <img src="https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2023.12.2104/1703149661337/Microsoft.VisualStudio.Services.Icons.Default" width="20"/>&nbsp;&nbsp;&nbsp;[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | Helps you better understand code. Extension for Visual Studio Code | Open Source |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" width="20"/>&nbsp;&nbsp;[Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) | Part of CSS that provides a easy way to layout icons within a container | donno |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="20"/>&nbsp;&nbsp;&nbsp;[react](https://reactjs.org) | A JavaScript library for building user interfaces  | donno |
 | <img src="https://www.typescriptlang.org/favicon-32x32.png" width="15"/>[TypeScript](https://www.typescriptlang.org) | JavaScript with Syntax for types  | donno |
