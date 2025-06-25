@@ -35,8 +35,6 @@ https://awstats.sourceforge.io/
 | <img src="https://avatars.githubusercontent.com/u/150462874?s=48&v=4" width="20"/>&nbsp;&nbsp;[Docmost](https://github.com/docmost/docmost)| Open-source collaborative wiki and documentation software. | Open Source / Enterprise Edition |
 | <img src="https://guacamole.apache.org/images/logos/guac-classic-logo-64.png" width="20"/>&nbsp;&nbsp;[Guacamole](https://guacamole.apache.org/)| Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.| Open Source|
 
-
-
 ## Dashboards
 | Application  | Description | License Model |
 | --- | --- | --- |
@@ -72,10 +70,10 @@ https://apps.kde.org/kleopatra/
 ## VPN - Remote Access
 | Application  | Description | License Model |
 | --- | --- | --- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Opnsense-logo.svg" width="80"/>&nbsp;&nbsp;&nbsp;[Open Sense](https://opnsense.org) | VPN, IPS, Firewall | donno |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Opnsense-logo.svg" width="80"/>&nbsp;&nbsp;&nbsp;[Open Sense](https://opnsense.org) | OPNsense® is an open source, feature rich firewall and routing platform, offering cutting-edge network protection. | Open Source |
 | <img src="https://avatars.githubusercontent.com/u/100464677?s=48&v=4" width="20"/>&nbsp;[Netbird](https://netbird.io/)|NetBird combines a configuration-free peer-to-peer private network and a centralized access control system in a single platform, making it easy to create secure private networks for your organization or home| 5 users free |
-| <img src="https://tailscale.com/favicon.png" width="20"/>&nbsp; [tailscale](https://tailscale.com/)| VPN | 3 users free |
-| <img src="https://framerusercontent.com/images/e76KKdP64F9YgzYu302f5fcNbcw.png" width="20"/>&nbsp;  [Twingate](https://www.twingate.com/)| VPN | 5 users  free|
+| <img src="https://tailscale.com/favicon.png" width="20"/>&nbsp; [tailscale](https://tailscale.com/)| Fast, seamless device connectivity — no hardware, no firewall rules, no wasted time. | 3 users free |
+| <img src="https://framerusercontent.com/images/e76KKdP64F9YgzYu302f5fcNbcw.png" width="20"/>&nbsp;  [Twingate](https://www.twingate.com/)| Go Beyond VPN | 5 users  free|
 
 ## IT Automation
 | Application  | Description | License Model |
