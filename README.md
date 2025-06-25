@@ -64,8 +64,8 @@ https://awstats.sourceforge.io/
 | <img src="https://www.passbolt.com/images/credits/brandguidelines/secondary.svg" width="20"/>&nbsp; [passbolt](https://www.passbolt.com/)| Passbolt is an open source credential platform for modern teams.| donno |
 | <img src="https://hohnstaedt.de/xca/templates/g5_hydrogen/custom/images/bigcert.png" width="40"/>&nbsp; [XCA](https://hohnstaedt.de/xca/)|This application is intended for creating and managing X.509 certificates, certificate requests, RSA, DSA and EC private keys, Smartcards and CRLs.| free |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bitwarden_logo.svg/1200px-Bitwarden_logo.svg.png" width="30"/>&nbsp;&nbsp;[bitwarden](https://bitwarden.com) | Password Security | donno |
+| <img src="https://apps.kde.org/favicon-16x16.png" width="30"/>&nbsp;[Kleopatra](https://apps.kde.org/kleopatra/)|Kleopatra ist ein Open-Source-Zertifikatsmanager und ein grafisches Front-End für kryptografische Dienste, das hauptsächlich für die Nutzung von OpenPGP- und S/MIME (X.509)-Zertifikaten entwickelt wurde.| Open Source |
 
-https://apps.kde.org/kleopatra/
 
 ## VPN - Remote Access
 | Application  | Description | License Model |
