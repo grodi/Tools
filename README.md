@@ -31,14 +31,14 @@ https://awstats.sourceforge.io/
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rustdesk.svg/48px-Rustdesk.svg.png" width="20"/>&nbsp;&nbsp;[Rustdesk](https://rustdesk.com) | RemoteControl OpenSource Alterdnative for TeamViewer | donno |
 | <img src="https://www.3cx.com/wp-content/uploads/2018/08/logo-3.png" width="40"/>&nbsp;&nbsp;[3cx](https://www.3cx.com)| Phone System, VIdeo Conferencing | 10 Users free |
 | <img src="https://mailcow.email/images/cow_mailcow.svg" width="20"/>&nbsp;&nbsp;[Mailcow](https://mailcow.email) | Groupware | Open Source Docker-based suite |
-| <img src="https://docs.paperless-ngx.com/assets/favicon.png" width="20"/>&nbsp;&nbsp;[Paperless](https://docs.paperless-ngx.com) | Document Management | Open Source |
+| <img src="https://docs.paperless-ngx.com/assets/favicon.png" width="20"/>&nbsp;&nbsp;[Paperless](https://docs.paperless-ngx.com)| Document Management | Open Source |
 | <img src="https://avatars.githubusercontent.com/u/150462874?s=48&v=4" width="20"/>&nbsp;&nbsp;[Docmost](https://github.com/docmost/docmost)| Open-source collaborative wiki and documentation software. | Open Source / Enterprise Edition |
 | <img src="https://guacamole.apache.org/images/logos/guac-classic-logo-64.png" width="20"/>&nbsp;&nbsp;[Guacamole](https://guacamole.apache.org/)| Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.| Open Source|
 
 ## Dashboards
 | Application  | Description | License Model |
 | --- | --- | --- |
-| <img src="https://homarr.dev/img/logo.png" width="20"/>&nbsp;&nbsp;[homarr](https://github.com/ajnart/homarr) | A sleek, modern dashboard that puts all of your apps and services at your fingertips. | Open Source |
+| [<img src="https://homarr.dev/img/logo.png" width="20"/> homarr](https://github.com/ajnart/homarr) | A sleek, modern dashboard that puts all of your apps and services at your fingertips. | Open Source |
 | <img src="https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[homer](https://github.com/bastienwirtz/homer)| Homer is a dead simple static HOMepage for your server to keep your services and favorite links on hand, based on a simple yaml configuration file. | Open Source |
 
 ## Monitoring and Reporting
