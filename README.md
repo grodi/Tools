@@ -22,13 +22,13 @@ https://awstats.sourceforge.io/
 ## Network Automation and Monitoring
 | Application  | Description | License Model |
 | --- | --- | --- |
-| <img src="https://gluware.com/wp-content/uploads/2015/06/favicon-196x196.png" width="20"/>&nbsp;[Gluware](https://gluware.com/)| The most powerful and intelligent network automation is at your fingertips.| Payplan |
-| <img src="https://cdn-fainj.nitrocdn.com/HMhNvtGdkXCThiYKondeUNdKlFRQtHkp/assets/images/optimized/rev-3413d1d/www.auvik.com/e9c81047136d2efac2e18595eddf5b64.apple-touch-icon.png" width="20"/>&nbsp;&nbsp; [Auvik](https://www.auvik.com/)|See exactly what’s happening on your networks. So you can fix issues faster and keep things running smoothly — without the time-sucking guesswork that comes with poor visibility.|Payplan|
+| <img src="https://gluware.com/wp-content/uploads/2015/06/favicon-196x196.png" width="20"/>&nbsp;[Gluware](https://gluware.com/)| The most powerful and intelligent network automation is at your fingertips.| PayPlan |
+| <img src="https://cdn-fainj.nitrocdn.com/HMhNvtGdkXCThiYKondeUNdKlFRQtHkp/assets/images/optimized/rev-3413d1d/www.auvik.com/e9c81047136d2efac2e18595eddf5b64.apple-touch-icon.png" width="20"/>&nbsp;&nbsp; [Auvik](https://www.auvik.com/)|See exactly what’s happening on your networks. So you can fix issues faster and keep things running smoothly — without the time-sucking guesswork that comes with poor visibility.|PayPlan|
 
 ## Backend
 | Application  | Description | License Model |
 | --- | --- | --- |
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rustdesk.svg/48px-Rustdesk.svg.png" width="20"/>&nbsp;&nbsp;Rustdesk](https://rustdesk.com) | RemoteControl OpenSource Alterdnative for TeamViewer | donno |
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rustdesk.svg/48px-Rustdesk.svg.png" width="20"/>&nbsp;&nbsp;Rustdesk](https://rustdesk.com) | RemoteControl OpenSource Alterdnative for TeamViewer | Open Source / PayPlan |
 | [<img src="https://www.3cx.com/wp-content/uploads/2018/08/logo-3.png" width="40"/>&nbsp;&nbsp;3cx](https://www.3cx.com)| Phone System, VIdeo Conferencing | 10 Users free |
 | [<img src="https://mailcow.email/images/cow_mailcow.svg" width="20"/>&nbsp;&nbsp;Mailcow](https://mailcow.email) | Groupware | Open Source Docker-based suite |
 | [<img src="https://docs.paperless-ngx.com/assets/favicon.png" width="20"/>&nbsp;&nbsp;Paperless](https://docs.paperless-ngx.com)| Document Management | Open Source |
@@ -44,7 +44,7 @@ https://awstats.sourceforge.io/
 ## Monitoring and Reporting
 | Application  | Description | License Model |
 | --- | --- | --- |
-| <img src="https://checkmk.com/application/files/cache/thumbnails/67fc39c599afdf20557d538416e3efd3.png" width="20"/>&nbsp;&nbsp;&nbsp;[CheckMK](https://checkmk.com)| IT Monitoring | Open Source / Payplan |
+| <img src="https://checkmk.com/application/files/cache/thumbnails/67fc39c599afdf20557d538416e3efd3.png" width="20"/>&nbsp;&nbsp;&nbsp;[CheckMK](https://checkmk.com)| IT Monitoring | Open Source / PayPlan |
 | <img src="https://uptimekuma.org/wp-content/uploads/2025/01/Uptime-Kuma-Logo.png" width="20"/>[UptimeKuma](https://uptimekuma.org/)|Uptime Kuma is an open-source, free and easy-to-use self-hosted monitoring tool| free |
 | [<img src="https://oss.oetiker.ch/smokeping/inc/smokeping-logo.png" width="35"/>&nbsp;Smokeping](https://oss.oetiker.ch/smokeping/) |Smokeping can measure, store and display latency, latency distribution and packet loss| free |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="20"/>&nbsp;&nbsp;[Prometheus](https://prometheus.io/) | Monitor your applications, systems, and services with the leading open source monitoring solution. | Open Source |
