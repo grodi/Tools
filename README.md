@@ -23,7 +23,7 @@ https://awstats.sourceforge.io/
 | Application  | Description | License Model |
 | --- | --- | --- |
 | <img src="https://gluware.com/wp-content/uploads/2015/06/favicon-196x196.png" width="20"/>&nbsp;[Gluware](https://gluware.com/)| The most powerful and intelligent network automation is at your fingertips.| PayPlan |
-| <img src="https://cdn-fainj.nitrocdn.com/HMhNvtGdkXCThiYKondeUNdKlFRQtHkp/assets/images/optimized/rev-3413d1d/www.auvik.com/e9c81047136d2efac2e18595eddf5b64.apple-touch-icon.png" width="20"/>&nbsp;&nbsp; [Auvik](https://www.auvik.com/)|See exactly what’s happening on your networks. So you can fix issues faster and keep things running smoothly — without the time-sucking guesswork that comes with poor visibility.|PayPlan|
+| <img src="https://cdn-fainj.nitrocdn.com/HMhNvtGdkXCThiYKondeUNdKlFRQtHkp/assets/images/optimized/rev-ba601b7/www.auvik.com/e9c81047136d2efac2e18595eddf5b64.favicon-16x16.png" width="20"/>&nbsp;&nbsp; [Auvik](https://www.auvik.com/)|See exactly what’s happening on your networks. So you can fix issues faster and keep things running smoothly — without the time-sucking guesswork that comes with poor visibility.|PayPlan|
 
 ## Backend
 | Application  | Description | License Model |
