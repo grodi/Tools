@@ -6,7 +6,7 @@
 | --- | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/44905828?s=200&v=4" width="20"/>&nbsp;&nbsp; [netbox](https://github.com/netbox-community/netbox)|The world's platform for network and infrastructure management.|Open Source|
 | <img src="https://www.proxmox.com/favicon.svg" width="20"/>&nbsp;&nbsp; [Proxmox](https://www.proxmox.com/en/)|A virtualization platform designed for the provisioning of hyper-converged infrastructure.|Open Source / Subscription|
-|[Sipcalc](https://github.com/sii/sipcalc)|Command Line Subnet Calculator |Open Source|
+|[Sipcalc](https://github.com/sii/sipcalc)|Sipcalc is an console based ip subnet calculator with IPv4 and IPv6 support|Open Source|
 
 ## Network Automation and Monitoring
 | Application  | Description | License Model |
