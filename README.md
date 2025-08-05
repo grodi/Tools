@@ -7,8 +7,7 @@ https://github.com/sii/sipcalc
 
 #### Google Tableau - Big Data modeling and visualization tool
 Free Testversion, Abo 70$ person/month
-<img src="https://cdn-fainj.nitrocdn.com/HMhNvtGdkXCThiYKondeUNdKlFRQtHkp/assets/images/optimized/rev-ba601b7/www.auvik.com/e9c81047136d2efac2e18595eddf5b64.favicon-16x16.png" width="20"/>
-<img src="https://docs.paperless-ngx.com/assets/favicon.png" width="20"/>
+
 
 #### AWStats - Web Analysis Software for log data
 OpenSource
@@ -32,7 +31,7 @@ https://awstats.sourceforge.io/
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rustdesk.svg/48px-Rustdesk.svg.png" width="20"/>&nbsp;&nbsp;Rustdesk](https://rustdesk.com) | RemoteControl OpenSource Alterdnative for TeamViewer | Open Source / PayPlan |
 | [<img src="https://www.3cx.com/wp-content/uploads/2018/08/logo-3.png" width="40"/>&nbsp;&nbsp;3cx](https://www.3cx.com)| Phone System, VIdeo Conferencing | 10 Users free |
 | [<img src="https://mailcow.email/images/cow_mailcow.svg" width="20"/>&nbsp;&nbsp;Mailcow](https://mailcow.email) | Groupware | Open Source Docker-based suite |
-| [<img src="https://docs.paperless-ngx.com/assets/favicon.png" width="20"/>&nbsp;&nbsp;Paperless](https://docs.paperless-ngx.com)| Document Management | Open Source |
+| [<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/paperless.png" width="20"/>&nbsp;&nbsp;Paperless](https://docs.paperless-ngx.com)| Document Management | Open Source |
 | [<img src="https://avatars.githubusercontent.com/u/150462874?s=48&v=4" width="20"/>&nbsp;&nbsp;Docmost](https://github.com/docmost/docmost)| Open-source collaborative wiki and documentation software. | Open Source / Enterprise Edition |
 | [<img src="https://guacamole.apache.org/images/logos/guac-classic-logo-64.png" width="20"/>&nbsp;&nbsp;Guacamole](https://guacamole.apache.org/)| Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.| Open Source|
 
