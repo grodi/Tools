@@ -42,7 +42,7 @@ https://awstats.sourceforge.io/
 | <img src="https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[homer](https://github.com/bastienwirtz/homer)| Homer is a dead simple static HOMepage for your server to keep your services and favorite links on hand, based on a simple yaml configuration file. | Open Source |
 
 ## Monitoring and Reporting
-| Application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | License Model |
+| Application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | License Model |
 | --- | --- | --- |
 | <img src="https://checkmk.com/application/files/cache/thumbnails/67fc39c599afdf20557d538416e3efd3.png" width="20"/>&nbsp;&nbsp;&nbsp;[CheckMK](https://checkmk.com)| IT Monitoring | Open Source / PayPlan |
 | <img src="https://uptimekuma.org/wp-content/uploads/2025/01/Uptime-Kuma-Logo.png" width="20"/>[UptimeKuma](https://uptimekuma.org/)|Uptime Kuma is an open-source, free and easy-to-use self-hosted monitoring tool| free |
@@ -87,7 +87,7 @@ https://awstats.sourceforge.io/
 
 ## Coding Stuff
 
-| Application  | Description | License Model |
+| Application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | License Model |
 | --- | --- | --- |
 |<img src="https://gohugo.io/favicon-16x16.png" width="20"/>&nbsp;&nbsp; [HUGO](https://gohugo.io/)|Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.|Open Source|
 | <img src="https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2023.12.2104/1703149661337/Microsoft.VisualStudio.Services.Icons.Default" width="20"/>&nbsp;&nbsp;&nbsp;[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | Helps you better understand code. Extension for Visual Studio Code | Open Source |
