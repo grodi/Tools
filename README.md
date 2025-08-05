@@ -42,7 +42,7 @@ https://awstats.sourceforge.io/
 | <img src="https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[homer](https://github.com/bastienwirtz/homer)| Homer is a dead simple static HOMepage for your server to keep your services and favorite links on hand, based on a simple yaml configuration file. | Open Source |
 
 ## Monitoring and Reporting
-| Application  | Description | License Model |
+| Application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | License Model |
 | --- | --- | --- |
 | <img src="https://checkmk.com/application/files/cache/thumbnails/67fc39c599afdf20557d538416e3efd3.png" width="20"/>&nbsp;&nbsp;&nbsp;[CheckMK](https://checkmk.com)| IT Monitoring | Open Source / PayPlan |
 | <img src="https://uptimekuma.org/wp-content/uploads/2025/01/Uptime-Kuma-Logo.png" width="20"/>[UptimeKuma](https://uptimekuma.org/)|Uptime Kuma is an open-source, free and easy-to-use self-hosted monitoring tool| free |
@@ -75,7 +75,7 @@ https://awstats.sourceforge.io/
 | <img src="https://framerusercontent.com/images/e76KKdP64F9YgzYu302f5fcNbcw.png" width="20"/>&nbsp;  [Twingate](https://www.twingate.com/)| Go Beyond VPN | 5 users  free|
 
 ## IT Automation
-| Application  | Description | License Model |
+| Application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | License Model |
 | --- | --- | --- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/256px-Ansible_logo.svg.png" width="20"/>&nbsp;&nbsp;[Ansible](https://www.redhat.com/en/ansible-collaborative)|Ansible is an open source IT automation engine that automates provisioning, configuration management, application deployment, orchestration, and many other IT processes.| Open Source |
 | <img src="https://avatars.githubusercontent.com/u/98574287?s=48&v=4" width="20"/>&nbsp;[SemaphoreUI](https://semaphoreui.com/)|Powerful browser based GUI for Ansible| Open Source |
