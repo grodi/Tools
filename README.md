@@ -26,7 +26,7 @@ https://awstats.sourceforge.io/
 | <img src="https://cdn-fainj.nitrocdn.com/HMhNvtGdkXCThiYKondeUNdKlFRQtHkp/assets/images/optimized/rev-ba601b7/www.auvik.com/e9c81047136d2efac2e18595eddf5b64.favicon-16x16.png" width="20"/>&nbsp;&nbsp; [Auvik](https://www.auvik.com/)|See exactly what’s happening on your networks. So you can fix issues faster and keep things running smoothly — without the time-sucking guesswork that comes with poor visibility.|PayPlan|
 
 ## Backend
-| &nbsp;&nbsp;&nbsp; Application &nbsp;&nbsp;&nbsp; | Description | License Model |
+| Application &nbsp;&nbsp;&nbsp;&nbsp; | Description | License Model |
 | --- | --- | --- |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rustdesk.svg/48px-Rustdesk.svg.png" width="20"/>&nbsp;&nbsp;Rustdesk](https://rustdesk.com) | RemoteControl OpenSource Alterdnative for TeamViewer | Open Source / PayPlan |
 | [<img src="https://www.3cx.com/wp-content/uploads/2018/08/logo-3.png" width="40"/>&nbsp;&nbsp;3cx](https://www.3cx.com)| Phone System, VIdeo Conferencing | 10 Users free |
