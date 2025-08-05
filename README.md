@@ -77,9 +77,9 @@ https://awstats.sourceforge.io/
 ## IT Automation
 | Application  | Description | License Model |
 | --- | --- | --- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/256px-Ansible_logo.svg.png" width="20"/>&nbsp;&nbsp;[Ansible](https://www.redhat.com/en/ansible-collaborative)|Ansible is an open source IT automation engine that automates provisioning, configuration management, application deployment, orchestration, and many other IT processes.| donno |
-| <img src="https://avatars.githubusercontent.com/u/98574287?s=48&v=4" width="20"/>&nbsp;[SemaphoreUI](https://semaphoreui.com/)|Powerful API for Ansible| donno |
-| <img src="https://avatars.githubusercontent.com/u/142061836?s=48&v=4" width="20"/>&nbsp;[Opentofu](https://opentofu.org/)|The open source infrastructure as code tool. Alternative to Terraform| donno |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/256px-Ansible_logo.svg.png" width="20"/>&nbsp;&nbsp;[Ansible](https://www.redhat.com/en/ansible-collaborative)|Ansible is an open source IT automation engine that automates provisioning, configuration management, application deployment, orchestration, and many other IT processes.| Open Source |
+| <img src="https://avatars.githubusercontent.com/u/98574287?s=48&v=4" width="20"/>&nbsp;[SemaphoreUI](https://semaphoreui.com/)|Powerful browser based GUI for Ansible| Open Source |
+| <img src="https://avatars.githubusercontent.com/u/142061836?s=48&v=4" width="20"/>&nbsp;[Opentofu](https://opentofu.org/)|The open source infrastructure as code tool. Alternative to Terraform| Open Source |
 | <img src="https://avatars.githubusercontent.com/u/59033362?s=200&v=4" width="20"/>&nbsp;[Kestra](https://kestra.io/)| Unify orchestration for all engineers. Build and govern all your workflows — Everything-as-Code, and from the UI.| Open Source / Enterprise |
 | <img src="https://www.rundeck.com/hubfs/Pager%20Duty%20Branding/rundeck-chevron-green.svg" width="20"/>&nbsp;&nbsp;[Rundeck](https://www.rundeck.com/)| Ansible UI | Open Source / Enterprise|
 | <img src="https://podman.io/favicon.ico" width="20"/>&nbsp;&nbsp; [podmann](https://podman.io/)|Manage containers, pods, and images with Podman. Seamlessly work with containers and Kubernetes from your local environment|OpenSource|
