@@ -45,7 +45,7 @@ https://awstats.sourceforge.io/
 | Application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | License Model |
 | --- | --- | --- |
 | <img src="https://checkmk.com/application/files/cache/thumbnails/67fc39c599afdf20557d538416e3efd3.png" width="20"/>&nbsp;&nbsp;&nbsp;[CheckMK](https://checkmk.com)| IT Monitoring | Open Source / PayPlan |
-| <img src="https://uptimekuma.org/wp-content/uploads/2025/01/Uptime-Kuma-Logo.png" width="20"/>[UptimeKuma](https://uptimekuma.org/)|Uptime Kuma is an open-source, free and easy-to-use self-hosted monitoring tool| free |
+| <img src="https://uptimekuma.org/wp-content/uploads/2025/01/Uptime-Kuma-Logo.png" width="20"/>&nbsp;[UptimeKuma](https://uptimekuma.org/)|Uptime Kuma is an open-source, free and easy-to-use self-hosted monitoring tool| free |
 | [<img src="https://oss.oetiker.ch/smokeping/inc/smokeping-logo.png" width="35"/>&nbsp;Smokeping](https://oss.oetiker.ch/smokeping/) |Smokeping can measure, store and display latency, latency distribution and packet loss| free |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="20"/>&nbsp;&nbsp;[Prometheus](https://prometheus.io/) | Monitor your applications, systems, and services with the leading open source monitoring solution. | Open Source |
 | <img src="https://github.com/grafana/loki/blob/main/docs/sources/logo_and_name.png" width="40"/>&nbsp;&nbsp; [Loki](https://grafana.com/products/cloud/logs/) | Loki is a horizontally scalable, highly available, multi-tenant log aggregation system inspired by Prometheus. | Open Source |
@@ -75,7 +75,7 @@ https://awstats.sourceforge.io/
 | <img src="https://framerusercontent.com/images/e76KKdP64F9YgzYu302f5fcNbcw.png" width="20"/>&nbsp;  [Twingate](https://www.twingate.com/)| Go Beyond VPN | 5 users  free|
 
 ## IT Automation
-| Application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | License Model |
+| Application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | License Model |
 | --- | --- | --- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/256px-Ansible_logo.svg.png" width="20"/>&nbsp;&nbsp;[Ansible](https://www.redhat.com/en/ansible-collaborative)|Ansible is an open source IT automation engine that automates provisioning, configuration management, application deployment, orchestration, and many other IT processes.| Open Source |
 | <img src="https://avatars.githubusercontent.com/u/98574287?s=48&v=4" width="20"/>&nbsp;[SemaphoreUI](https://semaphoreui.com/)|Powerful browser based GUI for Ansible| Open Source |
@@ -83,7 +83,7 @@ https://awstats.sourceforge.io/
 | <img src="https://avatars.githubusercontent.com/u/59033362?s=200&v=4" width="20"/>&nbsp;[Kestra](https://kestra.io/)| Unify orchestration for all engineers. Build and govern all your workflows — Everything-as-Code, and from the UI.| Open Source / Enterprise |
 | <img src="https://www.rundeck.com/hubfs/Pager%20Duty%20Branding/rundeck-chevron-green.svg" width="20"/>&nbsp;&nbsp;[Rundeck](https://www.rundeck.com/)| Ansible UI | Open Source / Enterprise|
 | <img src="https://podman.io/favicon.ico" width="20"/>&nbsp;&nbsp; [podmann](https://podman.io/)|Manage containers, pods, and images with Podman. Seamlessly work with containers and Kubernetes from your local environment|OpenSource|
-| <img src="https://robotframework.org/img/icons/favicon-32x32.png" width="20"/>&nbsp; [ROBOT FRAMEWORK](https://robotframework.org/)| Robot Framework is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA)| Open Source|
+| <img src="https://robotframework.org/img/icons/favicon-32x32.png" width="20"/> [ROBOT FRAMEWORK](https://robotframework.org/)| Robot Framework is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA)| Open Source|
 
 ## Coding Stuff
 
