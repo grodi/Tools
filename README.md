@@ -7,7 +7,8 @@ https://github.com/sii/sipcalc
 
 #### Google Tableau - Big Data modeling and visualization tool
 Free Testversion, Abo 70$ person/month
-
+<img src="https://cdn-fainj.nitrocdn.com/HMhNvtGdkXCThiYKondeUNdKlFRQtHkp/assets/images/optimized/rev-ba601b7/www.auvik.com/e9c81047136d2efac2e18595eddf5b64.favicon-16x16.png" width="20"/>
+<img src="https://docs.paperless-ngx.com/assets/favicon.png" width="20"/>
 
 #### AWStats - Web Analysis Software for log data
 OpenSource
