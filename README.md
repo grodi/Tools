@@ -1,20 +1,12 @@
 # IT Tools
 
-### sipcalc
-Command Line Subnet Calculator  
-OpenSource; OS: Win, Lin  
-https://github.com/sii/sipcalc
-
-#### Google Tableau - Big Data modeling and visualization tool
-Free Testversion, Abo 70$ person/month
-
-
 
 ## Infrastructure
 | Application  | Description | License Model |
 | --- | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/44905828?s=200&v=4" width="20"/>&nbsp;&nbsp; [netbox](https://github.com/netbox-community/netbox)|The world's platform for network and infrastructure management.|Open Source|
 | <img src="https://www.proxmox.com/favicon.svg" width="20"/>&nbsp;&nbsp; [Proxmox](https://www.proxmox.com/en/)|A virtualization platform designed for the provisioning of hyper-converged infrastructure.|Open Source / Subscription|
+|[Sipcalc](https://github.com/sii/sipcalc)|Command Line Subnet Calculator |Open Source|
 
 ## Network Automation and Monitoring
 | Application  | Description | License Model |
