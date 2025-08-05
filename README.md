@@ -42,14 +42,14 @@ https://awstats.sourceforge.io/
 | <img src="https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png" width="20"/>&nbsp;&nbsp;&nbsp;[homer](https://github.com/bastienwirtz/homer)| Homer is a dead simple static HOMepage for your server to keep your services and favorite links on hand, based on a simple yaml configuration file. | Open Source |
 
 ## Monitoring and Reporting
-| Application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | License Model |
+| Application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | License Model |
 | --- | --- | --- |
 | <img src="https://checkmk.com/application/files/cache/thumbnails/67fc39c599afdf20557d538416e3efd3.png" width="20"/>&nbsp;&nbsp;&nbsp;[CheckMK](https://checkmk.com)| IT Monitoring | Open Source / PayPlan |
 | <img src="https://uptimekuma.org/wp-content/uploads/2025/01/Uptime-Kuma-Logo.png" width="20"/>[UptimeKuma](https://uptimekuma.org/)|Uptime Kuma is an open-source, free and easy-to-use self-hosted monitoring tool| free |
 | [<img src="https://oss.oetiker.ch/smokeping/inc/smokeping-logo.png" width="35"/>&nbsp;Smokeping](https://oss.oetiker.ch/smokeping/) |Smokeping can measure, store and display latency, latency distribution and packet loss| free |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="20"/>&nbsp;&nbsp;[Prometheus](https://prometheus.io/) | Monitor your applications, systems, and services with the leading open source monitoring solution. | Open Source |
 | <img src="https://github.com/grafana/loki/blob/main/docs/sources/logo_and_name.png" width="40"/>&nbsp;&nbsp; [Loki](https://grafana.com/products/cloud/logs/) | Loki is a horizontally scalable, highly available, multi-tenant log aggregation system inspired by Prometheus. | Open Source |
-| <img src="https://grafana.com/static/img/about/grafana_logo_swirl_fullcolor.jpg" width="20"/>&nbsp;&nbsp;[Grafana](https://grafana.com/) |With Grafana you can create, explore, and share all of your data through beautiful, flexible dashboards| Free for personal use. In addition a PayPlan|
+| <img src="https://grafana.com/static/img/about/grafana_logo_swirl_fullcolor.jpg" width="20"/>&nbsp;&nbsp;[Grafana](https://grafana.com/) |With Grafana you can create, explore, and share all of your data through beautiful, flexible dashboards| Open Source / PayPlan|
 | <img src="https://beszel.dev/icon.svg" width="15"/>&nbsp;&nbsp; [Beszel](https://beszel.dev/) | Beszel is a lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions| Open Source |
 
 
