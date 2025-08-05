@@ -92,9 +92,8 @@
 
 ## Finanz Tools
 
-#### Portfolio Performance - Calculates Portfolio Performance
-OpenSource
-https://www.portfolio-performance.info/
+| Application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | License Model |
+| --- | --- | --- |
+|[Portfolio Performance](https://www.portfolio-performance.info/)| Calculates Portfolio Performance|OpenSource|
+|[tricount](https://www.tricount.com/)|Perfect for accounting for group activities such as outings, vacations, meals, or shared apartment expenses||
 
-#### tricount - Perfect for accounting for group activities such as outings, vacations, meals, or shared apartment expenses.
-https://www.tricount.com/
