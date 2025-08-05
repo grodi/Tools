@@ -9,9 +9,6 @@ https://github.com/sii/sipcalc
 Free Testversion, Abo 70$ person/month
 
 
-#### AWStats - Web Analysis Software for log data
-OpenSource
-https://awstats.sourceforge.io/
 
 ## Infrastructure
 | Application  | Description | License Model |
@@ -51,6 +48,7 @@ https://awstats.sourceforge.io/
 | <img src="https://github.com/grafana/loki/blob/main/docs/sources/logo_and_name.png" width="40"/>&nbsp;&nbsp; [Loki](https://grafana.com/products/cloud/logs/) | Loki is a horizontally scalable, highly available, multi-tenant log aggregation system inspired by Prometheus. | Open Source |
 | <img src="https://grafana.com/static/img/about/grafana_logo_swirl_fullcolor.jpg" width="20"/>&nbsp;&nbsp;[Grafana](https://grafana.com/) |With Grafana you can create, explore, and share all of your data through beautiful, flexible dashboards| Open Source / PayPlan|
 | <img src="https://beszel.dev/icon.svg" width="15"/>&nbsp;&nbsp; [Beszel](https://beszel.dev/) | Beszel is a lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions| Open Source |
+|[AWStats](https://awstats.sourceforge.io/)|Web Analysis Software for log data|OpenSource|
 
 
 ## Security and Identity
